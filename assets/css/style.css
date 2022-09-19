@@ -10,6 +10,15 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 /*Sets the font, text size, and colors of the contents of the header*/
 .header {
     padding: 20px;
@@ -48,14 +57,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;

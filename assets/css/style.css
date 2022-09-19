@@ -171,10 +171,11 @@ p {
 }
 */
 
-.search-engine-optimization img {
+.content section img {
     max-height: 200px;
 }
 
+/*
 .online-reputation-management img {
     max-height: 200px;
 }
@@ -182,12 +183,14 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+*/
 
-.search-engine-optimization h2 {
+.content section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/*
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -197,6 +200,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
 
 .footer {
     padding: 30px;

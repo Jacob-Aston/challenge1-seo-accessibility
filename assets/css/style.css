@@ -100,6 +100,19 @@ p {
     color: #ffffff;
 }
 
+/*Styles the headings under the benefits class*/
+.benefits section h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*Styles the images under the benefits class*/
+.benefits section img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
 /*
 .benefit-brand {
     margin-bottom: 32px;
@@ -112,11 +125,6 @@ p {
 }
 */
 
-/*Styles the headings under the benefits class*/
-.benefits section h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
 /*
 .benefit-brand h3 {
@@ -131,12 +139,6 @@ p {
 }
 */
 
-/*Styles the images under the benefits class*/
-.benefits section img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 /*
 .benefit-brand img {
@@ -169,6 +171,17 @@ p {
     color: #ffffff;
 }
 
+/*Sets the size of the pictres in the sections under content class*/
+.content section img {
+    max-height: 200px;
+}
+
+/*Adds margin and sets font size to headings under the content class*/
+.content section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /*
 .online-reputation-management {
     margin-bottom: 20px;
@@ -189,10 +202,6 @@ p {
 }
 */
 
-/*Sets the size of the pictres in the sections under content class*/
-.content section img {
-    max-height: 200px;
-}
 
 /*
 .online-reputation-management img {
@@ -204,11 +213,6 @@ p {
 }
 */
 
-/*Adds margin and sets font size to headings under the content class*/
-.content section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 /*
 .online-reputation-management h2 {

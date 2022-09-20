@@ -10,11 +10,13 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Sets the color of the nav links*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*Sets the default font size for paragraphs on this page*/
 p {
     font-size: 16px;
 }
@@ -47,17 +49,18 @@ p {
     font-size: 20px;
 }
 
-
+/*Sets the style of list in the header*/
 .header section ul {
     list-style-type: none;
 }
 
+/*Displays list elements inline and adds a margin to the left of the elements*/
 .header section ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-
+/*Styles the image to fill the width of the page while remaining 800px tall*/
 .hero {
     height: 800px;
     width: 100%;
@@ -67,17 +70,19 @@ p {
     background-position: center;
 }
 
+/*Floats images to the left of text. Used in the contents class on this page*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Same as float-left but, floats the images to the right*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-
+/*Makes a container on the right 20% of the page and styles the container*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -89,6 +94,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Spaces out and colors the sections under the benefits class*/
 .benefits section{
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,6 +112,7 @@ p {
 }
 */
 
+/*Styles the headings under the benefits class*/
 .benefits section h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -124,6 +131,7 @@ p {
 }
 */
 
+/*Styles the images under the benefits class*/
 .benefits section img {
     display: block;
     margin: 10px auto;
@@ -144,12 +152,14 @@ p {
 }
 */
 
+/*Makes a container to fill 75% of the page and displays it inline with the aside*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*Styles the sections under the content class. Setting font size/style, adding margin and padding, as well as setting the color*/
 .content section {
     margin-bottom: 20px;
     padding: 50px;
@@ -179,6 +189,7 @@ p {
 }
 */
 
+/*Sets the size of the pictres in the sections under content class*/
 .content section img {
     max-height: 200px;
 }
@@ -193,6 +204,7 @@ p {
 }
 */
 
+/*Adds margin and sets font size to headings under the content class*/
 .content section h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -210,6 +222,7 @@ p {
 }
 */
 
+/*Styles the content of the footer and sets a font family*/
 .footer {
     padding: 30px;
     clear: both;
@@ -217,6 +230,7 @@ p {
     text-align: center;
 }
 
+/*Sets the font size of the heading in the footer*/
 .footer h2 {
     font-size: 20px;
 }

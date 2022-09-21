@@ -10,6 +10,8 @@
 
 You can access the webpage at: https://jacob-aston.github.io/challenge1-seo-accessibility/
 
+You can access the repository at: https://github.com/Jacob-Aston/challenge1-seo-accessibility.git
+
 You can navigate to a specific section using the links in the header.
 
 ## License
